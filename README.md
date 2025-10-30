@@ -43,11 +43,3 @@ The interface allows:
 - Algorithm selection: Hamming, Jaro–Winkler, Smith–Waterman, or Compare All
 - Displays similarity results in real-time
 
----
-
-## 🧱 Installation & Usage
-
-### 1️⃣ Clone this repository
-```bash
-git clone https://github.com/yourusername/GeneCompare3X.git
-cd GeneCompare3X
